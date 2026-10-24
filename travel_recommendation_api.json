@@ -1,0 +1,80 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "images/sydney.jpg",
+          "description": "A vibrant harbour city known for its Opera House, Harbour Bridge and beautiful beaches."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "images/melbourne.jpg",
+          "description": "A cultural hub famous for its art, food, coffee scene and historic laneways."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "images/tokyo.jpg",
+          "description": "A bustling metropolis mixing ultramodern skyscrapers with traditional temples."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "images/kyoto.jpg",
+          "description": "Famous for its classical Buddhist temples, gardens, imperial palaces and geisha districts."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "images/rio.jpg",
+          "description": "A lively city known for Copacabana beach, Christ the Redeemer and its Carnival festival."
+        },
+        {
+          "name": "São Paulo, Brazil",
+          "imageUrl": "images/sao-paulo.jpg",
+          "description": "Brazil's largest city, with world-class dining, museums and nightlife."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "images/angkor-wat.jpg",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "images/taj-mahal.jpg",
+      "description": "An ivory-white marble mausoleum on the banks of the Yamuna river in Agra."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "images/bora-bora.jpg",
+      "description": "An island with turquoise lagoons, overwater bungalows and soft white sand."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "images/copacabana.jpg",
+      "description": "A famous beach in Rio de Janeiro with a lively promenade, sports and music."
+    }
+  ]
+}
